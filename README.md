@@ -1,3 +1,6 @@
+#Screenshot of Food App HomePage
+![Screenshot 2023-05-13 at 6 30 51 PM](https://github.com/colite1/food_app_clone/assets/44208817/fbf99c8b-d891-4190-850b-e7635e6c9b62)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
